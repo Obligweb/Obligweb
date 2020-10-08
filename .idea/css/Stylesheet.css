@@ -2,11 +2,14 @@ body{
     background-color: cornflowerblue;
 
 }
+picture{
+    margin-left: 350px;
+}
 h1{
     font-family: Verdana;
     font-size: 25px;
     color: azure;
-    margin-left: 615px;
+    margin-left: 560px;
     margin-bottom: 70px;
 }
 h2{
