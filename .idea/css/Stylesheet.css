@@ -1,8 +1,15 @@
 body{
     background-color: cornflowerblue;
+
 }
 h1{
     font-family: Verdana;
     font-size: 25px;
+    color: azure;
+    margin-left: 615px;
+}
+p1{
+    font-family: Verdana;
+    font-size: 15px;
     color: azure;
 }
