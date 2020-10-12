@@ -1,6 +1,9 @@
 body{
     background-color: cornflowerblue;
-
+    font-family: Verdana;
+    color: azure;
+    margin-left: 15px;
+    font-size: 15px;
 }
 picture{
     margin-left: 350px;
@@ -14,9 +17,10 @@ h1{
 }
 h2{
     font-family: Verdana;
-    font-size: 15px;
+    font-size: 18px;
     color: azure;
-    margin-left: 15px;
+    margin-left: 730px;
+    margin-top: -40px;
 }
 h3{
     font-family: Verdana;
@@ -45,26 +49,6 @@ h6{
     color: azure;
     margin-left: 15px;
     margin-bottom: 15px;
-}
-p1{
-    font-family: Verdana;
-    font-size: 15px;
-    color: azure;
-}
-p2{
-    font-family: Verdana;
-    font-size: 15px;
-    color: azure;
-}
-p3{
-    font-family: Verdana;
-    font-size: 15px;
-    color: azure;
-}
-p4{
-    font-family: Verdana;
-    font-size: 15px;
-    color: azure;
 }
 
 [class*= "col-"]

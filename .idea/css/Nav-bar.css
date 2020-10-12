@@ -1,0 +1,22 @@
+ul.menu {
+    list-style-type: none;
+    position: center;
+    margin-left: 230px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+li {
+    float: left;
+
+}
+a {
+    padding-left: 150px;
+    padding-right: 10px;
+    font-family: Verdana;
+    color: azure;
+}
+li a:hover{
+    text-decoration: underline;
+    text-decoration-color: azure;
+    font-weight: bold;
+}
